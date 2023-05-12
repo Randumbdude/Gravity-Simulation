@@ -1,0 +1,10 @@
+C:\Users\Riley\source\repos\Gravity Simulator\bin\Debug\Gravity Simulator.exe.config
+C:\Users\Riley\source\repos\Gravity Simulator\bin\Debug\Gravity Simulator.exe
+C:\Users\Riley\source\repos\Gravity Simulator\bin\Debug\Gravity Simulator.pdb
+C:\Users\Riley\source\repos\Gravity Simulator\obj\Debug\Gravity Simulator.csprojAssemblyReference.cache
+C:\Users\Riley\source\repos\Gravity Simulator\obj\Debug\Gravity_Simulator.Properties.Resources.resources
+C:\Users\Riley\source\repos\Gravity Simulator\obj\Debug\Gravity Simulator.csproj.GenerateResource.cache
+C:\Users\Riley\source\repos\Gravity Simulator\obj\Debug\Gravity Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Riley\source\repos\Gravity Simulator\obj\Debug\Gravity Simulator.exe
+C:\Users\Riley\source\repos\Gravity Simulator\obj\Debug\Gravity Simulator.pdb
+C:\Users\Riley\source\repos\Gravity Simulator\obj\Debug\Gravity_Simulator.mainWindow.resources
