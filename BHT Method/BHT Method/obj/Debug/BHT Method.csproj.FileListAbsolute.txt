@@ -1,0 +1,10 @@
+C:\Users\Riley\source\repos\BHT Method\BHT Method\obj\Debug\BHT Method.csprojAssemblyReference.cache
+C:\Users\Riley\source\repos\BHT Method\BHT Method\obj\Debug\BHT_Method.Properties.Resources.resources
+C:\Users\Riley\source\repos\BHT Method\BHT Method\obj\Debug\BHT Method.csproj.GenerateResource.cache
+C:\Users\Riley\source\repos\BHT Method\BHT Method\obj\Debug\BHT Method.csproj.CoreCompileInputs.cache
+C:\Users\Riley\source\repos\BHT Method\BHT Method\bin\Debug\BHT Method.exe.config
+C:\Users\Riley\source\repos\BHT Method\BHT Method\bin\Debug\BHT Method.exe
+C:\Users\Riley\source\repos\BHT Method\BHT Method\bin\Debug\BHT Method.pdb
+C:\Users\Riley\source\repos\BHT Method\BHT Method\obj\Debug\BHT Method.exe
+C:\Users\Riley\source\repos\BHT Method\BHT Method\obj\Debug\BHT Method.pdb
+C:\Users\Riley\source\repos\BHT Method\BHT Method\obj\Debug\BHT_Method.Form1.resources
